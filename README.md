@@ -2,6 +2,5 @@ This aplication does a md5 checksum and adds the checksum to the database if the
 optionally deletes, creates a hard link, or symbolic link
 
 install:
-
 sudo apt-get install libmysql++-dev
 
